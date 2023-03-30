@@ -1,6 +1,6 @@
 # Immunogenetics of HLA-B: SNP, allele, and haplotype diversity in populations from different continents and ancestry backgrounds
 
-Nayane dos Santos Brito Silva, Andreia da Silva Souza, Heloisa de Souza Andrade, Raphaela Neto Pereira, Camila Ferreira Bannwart Castro, Nicolas Vince, Sophie Limou, Michel Satya Naslavsky, Mayana Zatz, Yeda Aparecida de Oliveira Duarte, Celso Teixeira Mendes-Junior, Erick C. Castelli
+Nayane S. B. Silva, Andreia S. Souza, Heloisa S. Andrade, Raphaela N. Pereira, Camila F. B. Castro, Nicolas Vince, Sophie Limou, Michel S. Naslavsky, Mayana Zatz, Yeda A. O. Duarte, Celso T. Mendes-Junior, Erick C. Castelli
 
 ### DOI 10.1111/tan.15046, HLA 2023
 
